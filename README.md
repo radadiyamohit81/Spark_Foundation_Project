@@ -20,7 +20,7 @@
     
     Dataset : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
    
-#### Q4) Explore Business Analytics):
+#### Q4) Explore Business Analytics:
     Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
     You are the business owner of the retail firm and want to see how your company is performing. You are
     interested in finding out the weak areas where you can work to make more profit. What all business
